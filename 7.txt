@@ -1,0 +1,1 @@
+Machine language is directly understood by the computer without a translation program. It consists of binary code (0s and 1s) that the computer's central processing unit (CPU) can execute directly.

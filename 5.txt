@@ -1,0 +1,2 @@
+What is the output devices?
+Output devices are hardware components that display or produce the results of computer processing. Common examples include monitors, printers, speakers, and projectors, which present visual, printed, or audio information to the user.

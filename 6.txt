@@ -1,0 +1,1 @@
+The input device that allows a user to move the cursor or pointer on the screen is a mouse. It enables users to navigate and interact with the computer's graphical user interface.

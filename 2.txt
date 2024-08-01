@@ -1,0 +1,3 @@
+What is RAM?
+RAM (Random Access Memory) is a type of computer memory that temporarily stores data and programs currently in use, allowing quick access and efficient processing. It is volatile, losing data when powered off.
+

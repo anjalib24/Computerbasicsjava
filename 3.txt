@@ -1,0 +1,2 @@
+Where is data is stored in computer?
+Data in a computer is stored in RAM for temporary use and in secondary storage like hard drives and SSDs for permanent retention, maintaining data even when the computer is off.

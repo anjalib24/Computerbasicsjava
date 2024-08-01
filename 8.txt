@@ -1,0 +1,1 @@
+Input devices are hardware components used to enter data and control signals into a computer system. Examples include keyboards, mice, scanners, microphones, and cameras. These devices enable users to interact with and provide information to the computer.
